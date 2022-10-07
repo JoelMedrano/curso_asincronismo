@@ -1,0 +1,25 @@
+{
+  "name": "curso_asincronismo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoelMedrano/curso_asincronismo.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Joel Medrano <jvmedranog@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoelMedrano/curso_asincronismo/issues"
+  },
+  "homepage": "https://github.com/JoelMedrano/curso_asincronismo#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
